@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l3vR0EfzAm6eAqRFe/giphy.gif" min-width="350px" max-width="350px" width="400px" align="right" alt="/">
 
-### Olá, Sou o Crisley, Muito Prazer <img src="https://media0.giphy.com/media/BRLfMn2qEN1Xwpoc4D/giphy.gif?cid=ecf05e47baua3u2js0i5cuowywy31a6oef3p6clc50hlu683&rid=giphy.gif" width="24px">
+### Olá, Sou o Crisley, Muito Prazer <img src="https://media0.giphy.com/media/BRLfMn2qEN1Xwpoc4D/giphy.gif?cid=ecf05e47baua3u2js0i5cuowywy31a6oef3p6clc50hlu683&rid=giphy.gif" width="60px" height="60px">
 
 <a href="https://www.linkedin.com/in/crisley-duarte-da-silva/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
