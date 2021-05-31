@@ -63,7 +63,7 @@
 
 
 ## Minhas Estatísticas de Desenvolvimento:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisley-dev&layout=compact)](https://github.com/Crisley-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@Crisley-dev&layout=compact)](https://github.com/Crisley-dev)
 <br>
 
 [![Crisley_dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Crisley_dev&layout=compact)](https://wakatime.com/@Crisley_dev)
