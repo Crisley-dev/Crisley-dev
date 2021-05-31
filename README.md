@@ -59,7 +59,7 @@
 
 
 ## Meu Github:
-[![GitHub Crisley-dev](https://img.shields.io/github/followers/joaopaulovieira-dev?label=follow&style=social)](https://github.com/Crisley-dev)
+[![GitHub Crisley-dev](https://img.shields.io/github/followers/Crisley-dev?label=follow&style=social)](https://github.com/Crisley-dev)
 
 
 ## Minhas Estatísticas de Desenvolvimento:
