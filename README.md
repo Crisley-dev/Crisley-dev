@@ -69,6 +69,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Crisley_dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Crisley_dev&layout=compact)](https://wakatime.com/@Crisley_dev)
 
 
