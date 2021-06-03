@@ -67,6 +67,12 @@
 <br>
 
 <!--START_SECTION:waka-->
+```text
+PHP          6 hrs 18 mins   ███████████████░░░░░░░░░░   60.10 % 
+Dart         3 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   36.77 % 
+JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
 <!--END_SECTION:waka-->
 
 
