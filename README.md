@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Crisley-dev&color=brightgreen" alt="Crisley-dev" /></p>
 
-<img src="https://media.giphy.com/media/l3vR0EfzAm6eAqRFe/giphy.gif" min-width="350px" max-width="350px" width="400px" align="right" alt="/">
+<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" min-width="350px" max-width="350px" width="400px" align="right" alt="/">
 
 ### Olá, Sou o Crisley, Muito Prazer <img src="https://media0.giphy.com/media/BRLfMn2qEN1Xwpoc4D/giphy.gif?cid=ecf05e47baua3u2js0i5cuowywy31a6oef3p6clc50hlu683&rid=giphy.gif" width="60px" height="60px">
 
@@ -25,7 +25,7 @@
 - <code><img height="20" src="https://svgsilh.com/svg/152070-e00f00.svg"></code> Tenho 26 anos e sou muito fã de RPG de Mesa. 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> Estudadno bastante Flutter/DART.
 - <code><img height="20" src="https://svgsilh.com/svg/1976104-ffffff.svg"></code> Explorando a selva do desenvolvimento mobile
-- <code><img height="20" src="https://svgsilh.com/svg/2697651.svg"> </code>Estudando programação tornar o desenvolvimento minha carreira.
+- <code><img height="20" src="https://svgsilh.com/svg/2697651.svg"> </code>Estudando programação para tornar do desenvolvimento minha carreira.
 - 📫 Como entrar em contato comigo: [E-mail - crisley.dev@gmail.com](mailto:crisley.dev@gmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5524998529468&text=Oi%20Crisley&20peguei%20seu%20numero%20la%20no%20github.)
 
 ---
