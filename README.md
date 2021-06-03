@@ -66,6 +66,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisley-dev&layout=compact)](https://github.com/Crisley-dev)
 <br>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisley-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--START_SECTION:waka-->
 ```text
 PHP          6 hrs 18 mins   ███████████████░░░░░░░░░░   60.10 % 
