@@ -71,6 +71,4 @@
 
 [![Crisley_dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Crisley_dev&layout=compact)](https://wakatime.com/@Crisley_dev)
 
-<a href="https://github.com/Crisley-dev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Crisley-dev&show_icons=true&theme=light&line_height=27" alt="Crisley-dev github stats"/>
-</a>
+
