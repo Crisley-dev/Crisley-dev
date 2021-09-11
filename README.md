@@ -77,7 +77,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP   40 mins         █████████████████████████   100.00 % 
+PHP          40 mins         ███████████████████░░░░░░   75.86 % 
+JavaScript   12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 ```
 <!--END_SECTION:waka-->
 
