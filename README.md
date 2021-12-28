@@ -64,7 +64,11 @@
 ---
 
 ## Meus Projetos
-<img src="https://imgur.com/U3AO4NV.png" height="40px" width="40px"/> [RPGen](https://github.com/Crisley-dev/RPGen)
+<img src="https://imgur.com/U3AO4NV.png" height="40px" width="40px"/> [RPGen](https://github.com/Crisley-dev/RPGen) <br>
+
+<img src="https://canalfuria.files.wordpress.com/2014/09/daemon.jpg" height="40px" width="40px"/> [Daemon](https://github.com/Crisley-dev/daemon)
+
+
 <br></br>
 
 ---
