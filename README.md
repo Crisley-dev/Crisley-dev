@@ -21,10 +21,9 @@
 <br><br/>
 
 - <code><img height="20" src="https://svgsilh.com/svg/30127-ff9800.svg"></code>Formado em 2013 em Tecnico de Informatica e atualmente cursando ADS.
-- <code><img height="20" src="https://svgsilh.com/svg/32563-9e9e9e.svg"></code> Trabalho como Assistente de TI e programo sempre que sobra um tempo.
+- <code><img height="20" src="https://svgsilh.com/svg/32563-9e9e9e.svg"></code> Trabalho como Técnico de Programação e Dev Full Stack JR.
 - <code><img height="20" src="https://svgsilh.com/svg/152070-e00f00.svg"></code> Tenho 26 anos e sou muito fã de RPG de Mesa. 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> Estudadno bastante Flutter/DART.
-- <code><img height="20" src="https://svgsilh.com/svg/1976104-ffffff.svg"></code> Explorando a selva do desenvolvimento mobile
+- <code><img height="20" src="https://svgsilh.com/svg/1976104-ffffff.svg"></code> Desenvolvendo minha programação em PHP e Aprendendo Automação com UIPATH
 - <code><img height="20" src="https://svgsilh.com/svg/2697651.svg"> </code>Estudando programação para tornar do desenvolvimento minha carreira.
 - 📫 Como entrar em contato comigo: [E-mail - crisley.dev@gmail.com](mailto:crisley.dev@gmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5524998529468&text=Oi%20Crisley&20peguei%20seu%20numero%20la%20no%20github.)
 
