@@ -79,10 +79,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisley-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
 ```text
-PHP   2 hrs 12 mins   ███████████████████████▓░   94.24 % 
-CSS   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+PHP   2 hrs 12 mins   ███████████████████████▓░   94.24 %
+CSS   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 ```
+
 <!--END_SECTION:waka-->
 
 
