@@ -81,7 +81,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+XAML    1 hr 56 mins    ███████████████████████░░   91.97 %
+JSON    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Other   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
