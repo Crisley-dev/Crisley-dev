@@ -81,8 +81,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XAML    1 hr 56 mins    ██████████████████████▓░░   90.53 %
-Other   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
