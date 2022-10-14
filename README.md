@@ -81,8 +81,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-INI     3 hrs 41 mins   ███████████████▓░░░░░░░░░   62.30 %
-Other   2 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.60 %
+INI     3 hrs 41 mins   █████████████████░░░░░░░░   67.83 %
+Other   1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   32.17 %
 ```
 
 <!--END_SECTION:waka-->
