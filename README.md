@@ -81,8 +81,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-INI     58 mins         ███████████████████████▓░   94.34 %
-Other   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
