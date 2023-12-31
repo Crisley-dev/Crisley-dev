@@ -11,19 +11,13 @@
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.instagram.com/crisleyds/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/crisley.duartedasilva/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br><br/>
 
-- <code><img height="20" src="https://svgsilh.com/svg/30127-ff9800.svg"></code>Formado em 2013 em Tecnico de Informatica e atualmente cursando ADS.
-- <code><img height="20" src="https://svgsilh.com/svg/32563-9e9e9e.svg"></code> Trabalho como Técnico de Programação e Dev Full Stack JR.
-- <code><img height="20" src="https://svgsilh.com/svg/152070-e00f00.svg"></code> Tenho 26 anos e sou muito fã de RPG de Mesa. 
-- <code><img height="20" src="https://svgsilh.com/svg/1976104-ffffff.svg"></code> Desenvolvendo minha programação em PHP e Aprendendo Automação com UIPATH
+- <code><img height="20" src="https://svgsilh.com/svg/30127-ff9800.svg"></code>Formado em 2023 em Analise e Desenvolvimento de Sistemas.
+- <code><img height="20" src="https://svgsilh.com/svg/32563-9e9e9e.svg"></code> Trabalhando atualmente como Analista de Suporte e buscando voltar a trabalhar com DEV.
+- <code><img height="20" src="https://svgsilh.com/svg/152070-e00f00.svg"></code> Tenho 28 anos e sou muito fã de RPG de Mesa. 
+- <code><img height="20" src="https://svgsilh.com/svg/1976104-ffffff.svg"></code> Me afastei da programação por um tempo e agora busco voltar a desenvolver focado em Flutter e Mobile.
 - <code><img height="20" src="https://svgsilh.com/svg/2697651.svg"> </code>Estudando programação para tornar do desenvolvimento minha carreira.
 - 📫 Como entrar em contato comigo: [E-mail - crisley.dev@gmail.com](mailto:crisley.dev@gmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5524998529468&text=Oi%20Crisley&20peguei%20seu%20numero%20la%20no%20github.)
 
